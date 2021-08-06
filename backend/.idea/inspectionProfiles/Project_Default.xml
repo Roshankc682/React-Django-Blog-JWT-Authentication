@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="djstudent.students.forms.students" />
+          <option value="webapplication.crudapplication.forms.crudapplication" />
+          <option value="webapplication.crudapplication.views.crudapplication" />
+          <option value="Jwt_token.authentication.views.authentication" />
+          <option value="Jwt_token.authentication.views.exceptions" />
+          <option value="Jwt_token.authentication.serializers.tokens" />
+          <option value="Jwt_token.authentication.serializers.TokenObtainPairSerializer" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

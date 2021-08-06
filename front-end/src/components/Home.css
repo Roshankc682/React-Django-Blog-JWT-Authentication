@@ -1,0 +1,21 @@
+.card_special{
+	 margin: auto;
+	  width: 60%;
+	  padding: 6px;
+
+}
+.card_image{
+	margin: auto;
+	  width: 80%;
+	  padding: 10px;
+	 border-radius: 10px;
+	 /*background-image: url("http://localhost:3000/background.png");*/
+}
+
+.overlays_issue{
+	position: relative;
+	width: 100%;
+	left: 0;
+	z-index: 10;
+	bottom: 0;
+}

@@ -1,0 +1,23 @@
+.Form_div{
+	 margin: auto;
+	  width: 50%;
+	  padding: 10px;
+}
+
+
+.alert_center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+
+.text_area_center{
+  /*margin-top: 200px;*/
+   margin: auto;
+  width: 90%;
+  height: 100%;
+}
+.alert-danger{
+  width: 300px;
+}

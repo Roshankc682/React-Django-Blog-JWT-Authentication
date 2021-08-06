@@ -1,0 +1,21 @@
+.size_of_pic{
+	height: 150px;
+	width: 150px;
+}
+
+.box {
+  float: left;
+  width: 30%;
+  padding: 50px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.input_file_choose {
+ color: black;
+}
+
+
