@@ -2,7 +2,7 @@
 This project is Build using React + Django-restframwork with JWT-Token authentication http-cookie only.
 
 
-# Deployed in heroku : <a href="https://simple--blogger.herokuapp.com">Test the live Blogger app</a>
+# Deployed in heroku : <a href="https://simple--blogger.herokuapp.com/home">Test the live Blogger app</a>
 
 It's build Front-End React and Backend django (where Rest framework is used)
 
